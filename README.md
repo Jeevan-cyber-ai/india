@@ -107,6 +107,3 @@ These clusters can help in policy making, targeted development, and identifying 
 
 ---
 
-## ✅ Status
-
-✔️ Completed and ready for submission/presentation!
