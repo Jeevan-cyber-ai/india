@@ -1,4 +1,4 @@
-# 🇮🇳 Indian States Clustering (K-Means)
+# Indian States-GDP Clustering (K-Means)
 
 This project applies **Unsupervised Machine Learning** (K-Means clustering) to group Indian states into 3 clusters based on:
 - `Population_2024`
